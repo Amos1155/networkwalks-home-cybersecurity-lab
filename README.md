@@ -113,3 +113,44 @@ This exercise provided practical experience in building a virtualised cybersecur
 The completed lab provides a controlled foundation for further cybersecurity learning and authorised security testing.
 
 Scope: All future testing within this environment will be conducted only on systems for which permission has been granted.
+Project Evidence
+
+The following screenshots document the configuration, implementation and verification of the home cybersecurity lab.
+
+1. VirtualBox Environment
+
+"VirtualBox Manager" (screenshots/01-virtualbox.jpg)
+
+2. NAT Network Configuration
+
+"NAT Network" (screenshots/02-nat-network.jpg)
+
+3. Kali Linux Network Adapter
+
+"Kali Network Settings" (screenshots/03-kali-network-settings.jpg)
+
+4. Kali Linux IP Address
+
+"Kali IP Address" (screenshots/04-kali-ip-address.jpg)
+
+5. Default Gateway
+
+"Default Gateway" (screenshots/05-kali-default-gateway.jpg)
+
+6. Internet Connectivity
+
+"Internet Connectivity" (screenshots/06-internet-connectivity.jpg)
+
+7. DNS Resolution
+
+"DNS Resolution" (screenshots/07-dns-resolution.jpg)
+
+8. Shared Folder Configuration
+
+"Shared Folder" (screenshots/08-shared-folder.jpg)
+
+9. Clipboard and Drag-and-Drop Configuration
+
+"Clipboard Settings" (screenshots/09-clipboard-settings.jpg)
+
+Additional verification: The shared Downloads folder was successfully accessed from Kali Linux. Bidirectional clipboard sharing and file drag-and-drop were also tested successfully.
