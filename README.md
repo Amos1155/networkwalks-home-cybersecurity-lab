@@ -43,7 +43,7 @@ Network address| 10.0.0.0
 Subnet mask| 255.255.255.0
 CIDR| /24
 Kali Linux IP| 10.0.0.2/24
-Default gateway| [Insert verified gateway]
+Default gateway| 10.0.0.1
 
 The NAT Network configuration provides internet access to the virtual machine while allowing communication between virtual machines connected to the same NAT Network.
 
